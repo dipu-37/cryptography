@@ -59,7 +59,7 @@ int main()
 
     }
 
-    cout<<"cipher"<<cipher<<endl;
+    cout<<cipher<<endl;
 
 
 }
